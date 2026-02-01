@@ -1,1 +1,3 @@
 # clikto
+
+terminology
